@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-- 📫 How to reach me: [email](mailto:gauket.dev@gmail.com)
+- 📫 How to reach me: [email](mailto:gauket.dev@gmail.com?subject=GitHub%20Contact&body=Type%20your%20message%20here)
 
 <!--
 - 😄 Pronouns: ...

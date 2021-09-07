@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-- 📫 How to reach me: gauket.dev@gmail.com 
+- 📫 How to reach me: [email](gauket.dev@gmail.com)
 
 <!--
 - 😄 Pronouns: ...
